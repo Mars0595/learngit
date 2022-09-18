@@ -6,4 +6,4 @@ hello world 02
 
 let me try
 
-best pracetices
+best prac$tices
